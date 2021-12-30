@@ -1,0 +1,54 @@
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.Migrations.initiate.resources
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csproj.GenerateResource.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csprojAssemblyReference.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.DAL.dll.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.DAL.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.DAL.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Core.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\RestSharp.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\log4net.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Core.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Core.dll.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\RestSharp.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\bin\Debug\log4net.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csproj.CopyComplete
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.DAL.dll.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.DAL.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.DAL.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\EntityFramework.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Core.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\RestSharp.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\log4net.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Core.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Interact.Invoice.Core.dll.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\EntityFramework.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\RestSharp.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\bin\Debug\log4net.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csprojAssemblyReference.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.Migrations.initiate.resources
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csproj.GenerateResource.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.csproj.CopyComplete
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.DAL\obj\Debug\Interact.Invoice.DAL.pdb

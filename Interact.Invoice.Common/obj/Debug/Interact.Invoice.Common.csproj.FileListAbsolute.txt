@@ -1,0 +1,11 @@
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Common\bin\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Common\bin\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Common\bin\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Common\bin\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.csprojAssemblyReference.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Common\obj\Debug\Interact.Invoice.Common.pdb

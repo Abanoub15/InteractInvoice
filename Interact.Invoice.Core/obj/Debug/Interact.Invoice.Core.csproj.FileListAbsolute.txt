@@ -1,0 +1,36 @@
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.csprojAssemblyReference.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Core.dll.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Core.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Core.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\log4net.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\log4net.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.csproj.CopyComplete
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Core.dll.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Core.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Core.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Common.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\log4net.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Interact.Invoice.Common.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\log4net.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.csprojAssemblyReference.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.csproj.CopyComplete
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Core\obj\Debug\Interact.Invoice.Core.pdb

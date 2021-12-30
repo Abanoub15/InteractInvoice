@@ -1,0 +1,280 @@
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.csprojAssemblyReference.cache
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Web.dll.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Web.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Web.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\csc.exe
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\csc.exe.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\csc.rsp
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\csi.exe
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\csi.exe.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\csi.rsp
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.AppContext.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Console.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.IO.Pipes.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.Claims.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\vbc.exe
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\vbc.exe.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\vbc.rsp
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Data.Common.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Diagnostics.StackTrace.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Diagnostics.Tracing.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Globalization.Extensions.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.IO.Compression.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Net.Http.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Net.Sockets.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Security.SecureString.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Threading.Overlapped.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Xml.XPath.XDocument.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Antlr3.Runtime.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\CommonServiceLocator.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\EntityFramework.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Common.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Core.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.DAL.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\log4net.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Owin.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Owin.Security.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Xrm.Sdk.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Newtonsoft.Json.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Owin.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\PagedList.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\PagedList.Mvc.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Helpers.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Mvc.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Optimization.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Razor.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.WebPages.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Abstractions.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Container.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Mvc.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.ServiceLocation.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\WebActivatorEx.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\WebGrease.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\RestSharp.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Common.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Core.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.Core.dll.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.DAL.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Interact.Invoice.DAL.dll.config
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\EntityFramework.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\log4net.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Crm.Sdk.Proxy.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Owin.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Owin.Security.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.Xrm.Sdk.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\PagedList.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\PagedList.Mvc.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Threading.Tasks.Extensions.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Helpers.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Mvc.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Razor.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.WebPages.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\System.Web.Optimization.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Newtonsoft.Json.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Abstractions.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Container.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Mvc.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.Mvc.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Unity.ServiceLocation.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\bin\RestSharp.xml
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.csproj.CopyComplete
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.dll
+D:\Projects\Interact\New Invoice\Interact.Invoice.Web\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Web.dll.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Web.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Web.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\csc.exe
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\csc.exe.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\csc.rsp
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\csi.exe
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\csi.exe.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\csi.rsp
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.AppContext.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Console.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.IO.Pipes.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.Claims.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\vbc.exe
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\vbc.exe.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\vbc.rsp
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Data.Common.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Diagnostics.StackTrace.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Diagnostics.Tracing.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Globalization.Extensions.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.IO.Compression.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Net.Http.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Net.Sockets.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Security.SecureString.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Threading.Overlapped.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Xml.XPath.XDocument.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Antlr3.Runtime.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\CommonServiceLocator.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\EntityFramework.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Common.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Core.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.DAL.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\log4net.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Crm.Sdk.Proxy.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Owin.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Owin.Security.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Xrm.Sdk.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Newtonsoft.Json.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Owin.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\PagedList.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\PagedList.Mvc.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Helpers.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Mvc.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Optimization.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Razor.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.WebPages.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Abstractions.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Container.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Mvc.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.ServiceLocation.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\WebActivatorEx.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\WebGrease.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\RestSharp.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Common.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Core.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.Core.dll.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.DAL.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Interact.Invoice.DAL.dll.config
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\EntityFramework.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\log4net.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Crm.Sdk.Proxy.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Owin.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Owin.Security.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.Xrm.Sdk.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\PagedList.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\PagedList.Mvc.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Threading.Tasks.Extensions.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Helpers.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Mvc.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Razor.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.WebPages.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\System.Web.Optimization.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Newtonsoft.Json.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Abstractions.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Container.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Mvc.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.Mvc.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Unity.ServiceLocation.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\bin\RestSharp.xml
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.csprojAssemblyReference.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.csproj.CoreCompileInputs.cache
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.csproj.CopyComplete
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.dll
+D:\Projects\Interact\InteractInvoice\Interact.Invoice.Web\obj\Debug\Interact.Invoice.Web.pdb

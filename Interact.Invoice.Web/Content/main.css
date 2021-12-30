@@ -1,0 +1,154 @@
+﻿main {
+    min-height: 500px;
+}
+.crmButton {
+    font-size: 15px;
+    padding: 9px;
+    border-radius: 6px;
+    margin-top: 5px;
+    border: 1px solid;
+    cursor: pointer;
+    background: #0a335f;
+    color: #fff;
+}
+.submiitedProducts .loader {
+    position: absolute;
+    top: 26px;
+    left: 21px;
+    z-index: 12;
+    font-size: 20px;
+    color: #fff;
+}
+.cell-error {
+    border: 2px solid red;
+    background: #eee;
+    color: red;
+    border-width: 3px !important;
+    border-right: 3px solid red !important;
+    border-bottom: 3px solid red !important;
+}
+.loader-overlay {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 999;
+}
+.loader-overlay .tb-spinner {
+    left: 48%;
+    top: 50%;
+}
+.handsontable.active {
+    opacity: .4;
+}
+.submiitedProducts .loader-wrapper {
+    padding: 0 !important;
+    display: inline-block;
+}
+
+.submiitedProducts .disabled {
+    opacity: .6
+}
+.table-wrapper {
+   /* overflow-x: auto;*/
+}
+main{
+   /* overflow:auto;*/
+}
+/* Row headers */
+.ht_clone_left th {
+    background-color: #F00;
+}
+
+/* Column headers */
+.ht_clone_top th {
+    background-color: #F00;
+}
+
+.handsontable th {
+    background-color: #4343a9 !important;
+    color: #fff !important;
+}
+
+/* Every odd row */
+.ht_master tr:nth-of-type(odd) > td {
+    background-color: #eee !important;
+    /*color: #fff !important;*/
+}
+
+/* Every even row */
+.ht_master tr:nth-of-type(even) > td {
+    background-color: #fff !important;
+}
+
+.handsontable thead th .relative {
+    padding: 8px 4px !important;
+}
+
+.ht_clone_top_left_corner th {
+    background-color: #F00;
+}
+
+/* Row headers */
+/* Bottom */
+.ht_clone_top_left_corner th {
+    border-bottom: 1px solid #F00;
+}
+
+/* Left and right */
+.ht_clone_left th {
+    border-right: 1px solid #F00;
+    border-left: 1px solid #F00;
+}
+
+/* Column headers */
+/* Top, bottom and right */
+.ht_clone_top th {
+  
+}
+
+/* Left */
+.ht_clone_top_left_corner th {
+    border-right: 1px solid #F00;
+}
+
+
+/*qoute table here*/
+
+.qout .loader {
+    position: absolute;
+    top: .5em;
+    left: 21px;
+    z-index: 5;
+    font-size: 20px;
+}
+    .qout .loader-wrapper {
+        padding: 0 !important;
+    }
+.qout .disabled {
+    opacity: .4;
+    pointer-events: none;
+}
+    .qout .liItem {
+        padding: 1px 0px;
+        /* width: 22px; */
+margin: 0px;
+cursor:pointer;
+}
+
+.qout .liItem.active a {
+    background: #da0000;
+    color: #fff;
+}
+
+.qout .liItem a {
+    width: 100%;
+    padding: 7px 16px;
+    background: #eee;
+    border-radius: 3px;
+    display: block;
+}
+
+    .qout .liItem a:hover {
+        color: inherit;
+    }
